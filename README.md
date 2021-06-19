@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
  
-- 🔭 I’m currently working as Backend Developer in PHP
+- 🔭 I’m currently working as Backend Developent Intern in PHP
 - 🌱 I’m currently learning FLUTTER
 <!--
 - 👯 I’m looking to collaborate on ...
