@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
+I'm Debapriyam Chaudhuri
  
 - 🔭 I’m currently working as Backend Developent Intern in PHP
 - 🌱 I’m currently learning FLUTTER
