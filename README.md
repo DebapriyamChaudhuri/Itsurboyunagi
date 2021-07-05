@@ -2,7 +2,7 @@
 
 I'm Debapriyam Chaudhuri
  
-- 🔭 I’m currently working as Backend Developent Intern in PHP
+- 🔭 I’m currently working as Backend Developent Intern
 - 🌱 I’m currently learning FLUTTER
 <!--
 - 👯 I’m looking to collaborate on ...
