@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 I'm Debapriyam Chaudhuri
+
+
+![](https://komarev.com/ghpvc/?username=your-github-Itsyourboyunagi&color=dc143c)
+
+
+![Kunver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsyourboyunagi&show_icons=true&theme=radical)
  
 - 🔭 I’m currently working as Backend Developent Intern
 - 🌱 I’m currently learning FLUTTER
