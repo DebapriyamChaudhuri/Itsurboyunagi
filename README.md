@@ -6,7 +6,7 @@ I'm Debapriyam Chaudhuri
 ![](https://komarev.com/ghpvc/?username=your-github-Itsurboyunagi&color=dc143c)
 
 
-![Kunver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsurboyunagi&show_icons=true&theme=radical)
+![Debapriyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsurboyunagi&show_icons=true&theme=midnight-purple)
  
 - 🔭 I’m currently working as Backend Developent Intern
 - 🌱 I’m currently learning FLUTTER
