@@ -3,10 +3,10 @@
 I'm Debapriyam Chaudhuri
 
 
-![](https://komarev.com/ghpvc/?username=your-github-Itsurboyunagi&color=dc143c)
+![](https://komarev.com/ghpvc/?username=your-github-DebapriyamChaudhuri&color=dc143c)
 
 
-![Debapriyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsurboyunagi&show_icons=true&theme=midnight-purple)
+![Debapriyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebapriyamChaudhuri&show_icons=true&theme=midnight-purple)
  
 - 🔭 I’m currently working as Backend Developent Intern
 - 🌱 I’m currently learning FLUTTER
