@@ -8,7 +8,7 @@ I'm Debapriyam Chaudhuri
 
 ![Debapriyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=DebapriyamChaudhuri&show_icons=true&theme=midnight-purple)
  
-- 🔭 I’m currently working as an Associate Application Developer
+- 🔭 I’m currently working as an Associate Software Engineer
 <!--
 - 🌱 I’m currently learning FLUTTER
 - 👯 I’m looking to collaborate on ...
